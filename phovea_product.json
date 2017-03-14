@@ -1,0 +1,9 @@
+[
+  {
+    "type": "web",
+    "label": "domino",
+    "repo": "Caleydo/domino_js",
+    "branch": "master",
+    "additional": []
+  }
+]
